@@ -10,7 +10,7 @@ Starting from scratch, create an `index.html` file and a `styles.css` file that 
 
 Initially, recreate the level without the lily pads (to avoid having to figure out how to put one HTML element on top of another).
 
-<img src="froggy.PNG"/>
+<img src="froggy.PNG" width="300px"/>
 
 You can find the URLs for the images below:
 
